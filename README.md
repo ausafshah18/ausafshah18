@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ausafshah18
-- 👀 I’m interested in programming,Software development
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me "ausafshah18@gmail.com"
+Aspiring programmer
 
 <!---
 ausafshah18/ausafshah18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
